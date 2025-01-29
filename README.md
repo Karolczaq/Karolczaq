@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my [website](https://karolczaq.github.io)
-- 🌱 I’m currently learning JavaScript
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolczaq&layout=compact" />
-</p>
+- 🔭 I’m currently working on a tutoring app called Vecote
+- 🌱 I’m currently learning TypeScript, React, Next.js, and all sorts of web tools
+
 <!--
 **Karolczaq/Karolczaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
