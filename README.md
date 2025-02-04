@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a tutoring app called Vecote
+- 🔭 I’m currently building an all-in-one app for teaching called Vecote
 - 🌱 I’m currently learning TypeScript, React, Next.js, and all sorts of web tools
 
 <!--
