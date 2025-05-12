@@ -34,8 +34,6 @@
 ---
 
 <h3 align="left">Take a look at my projects 👇</h3>
-
-###
 <!--
 **Karolczaq/Karolczaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
