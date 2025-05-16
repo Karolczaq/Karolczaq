@@ -1,4 +1,8 @@
-<h2 align="left">Hey there 👋</h2>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=karolczaq&label=Profile%20views&color=orange&style=flat" alt="profile views" />
+</p>
+
+<h2 align="left">Hi, I'm Karol 👋</h2>
 
 ###
 
